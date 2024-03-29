@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently developing a submarine combat system in Hanwha System![ChampaignWindyGIF](https://github.com/limjkk/limjkk/assets/40862559/fa4d6023-fb9e-466d-9dca-a545ebb2bbf4)
-
+- 🚀 I'm currently developing a submarine combat system in Hanwha System! ⚓
 - 🌱 I’m currently learning C++ / Python Language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
